@@ -14,6 +14,10 @@ Know me better:
   <img align="left" alt="Sofia's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+</a>
+<a href="https://www.kaggle.com/sofiaabielmi">
+  <img align="left" alt="Sofia's Kaggle" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/kaggle.svg" />
+</a>
 
 
 
