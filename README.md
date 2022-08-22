@@ -1,7 +1,7 @@
 ### Hi there 👋
+I'm Sofia abi Elmi, [a Professional Data Scientist](https://www.datacamp.com/certificate/DS0012154631938) from Nairobi, Kenya.
 
-
-About Me:
+Know me better:
 
 - 🔭 I’m currently working on more Data Science projects on kaggle.
 - 🌱 I’m currently learning Power BI
