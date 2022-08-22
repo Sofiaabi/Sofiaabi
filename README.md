@@ -4,8 +4,9 @@ I'm Sofia abi Elmi, [a Professional Data Scientist](https://www.datacamp.com/cer
 Know me better:
 
 - 🔭 I’m currently working on more Data Science projects on kaggle.
-- 🌱 I’m currently learning Power BI
-- 💬 Ask me about anything R, SQL, Excel & Power BI related issues.
+- 👨‍💻 All of my projects are available at https://www.kaggle.com/sofiaabielmi
+- 🌱 I’m currently sharpening my BI skills
+- 💬 Ask me about anything R, SQL, Excel & Power BI related topics.
 - 📫 How to reach me: sofiaelmi0@gmail.com
 - 😄 Pronouns: she/her
 
