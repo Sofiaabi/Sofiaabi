@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sofia abi Elmi</h1>
-<h3 align="center"> [A Professional Data Scientist](https://www.datacamp.com/certificate/DS0012154631938) from Nairobi, Kenya. </h3>
+ [A Professional Data Scientist](https://www.datacamp.com/certificate/DS0012154631938) from Nairobi, Kenya. 
+
+
 
 
 About me :
