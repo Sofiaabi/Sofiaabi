@@ -15,7 +15,9 @@ About me :
   <img align="left" alt="Sofia's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://www.kaggle.com/sofiaabielmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sofiaabielmi"  width="22px" /></a>
+</a>
+<a href="https://www.kaggle.com/sofiaabielmi" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sofiaabielmi"  width="22px" />
+</a>
 
 
 
