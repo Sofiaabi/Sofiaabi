@@ -6,7 +6,7 @@
 
 About me :
 
-- 🔭 I’m currently working on more Data Science projects on kaggle.
+- 🔭 I’m currently working on more Data Science projects.
 - 👨‍💻 All of my projects are available here & at https://www.kaggle.com/sofiaabielmi
 - 🌱 I’m currently sharpening my BI skills
 - 💬 Ask me about anything R, SQL, Excel & Power BI related topics.
