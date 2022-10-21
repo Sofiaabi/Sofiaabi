@@ -6,9 +6,8 @@
 
 About me :
 
-- 🔭 I’m currently working on more Data Science projects.
+- 🔭 I’m currently a Data Science intern.
 - 👨‍💻 All of my projects are available here & at https://www.kaggle.com/sofiaabielmi
-- 🌱 I’m currently sharpening my BI skills
 - 💬 Ask me about anything R, SQL, Excel & Power BI related topics.
 - 📫 How to reach me: sofiaelmi0@gmail.com
 - 😄 Pronouns: she/her
