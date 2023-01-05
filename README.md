@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="wave.gif" width="30px">, I'm Sofia Abi Elmi</h1>
+<h1 align="center">Hi, I'm Sofia Abi Elmi</h1>
  
 [A Professional Data Scientist](https://www.datacamp.com/certificate/DS0012154631938) from Nairobi, Kenya. 
 
