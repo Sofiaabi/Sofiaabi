@@ -12,9 +12,15 @@ About me :
 - 📫 How to reach me: sofiaelmi0@gmail.com
 - 😄 Pronouns: she/her
 
-<a href="https://www.linkedin.com/in/sofia-abi-elmi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sofia's LinkedIn" width="22px" /></a>
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/sofia-abi-elmi/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sofia's LinkedIn" width="22px" />
+  </a>
 
-<a href="https://www.kaggle.com/sofiaabielmi" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sofiaabielmi"  width="22px" /></a>
+  <a href="https://www.kaggle.com/sofiaabielmi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sofiaabielmi" width="22px" />
+  </a>
+</div>
 
 
 
