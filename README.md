@@ -13,8 +13,9 @@ About me :
 - 😄 Pronouns: she/her
 
 <a href="https://www.linkedin.com/in/sofia-abi-elmi/">
-  <img align="left" alt="Sofia's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Sofia's LinkedIn" width="22px" src="linkedin.svg" />
 </a>
+
 
 
 </a>
