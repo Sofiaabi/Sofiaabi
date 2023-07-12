@@ -6,7 +6,6 @@
 
 About me :
 
-- 🔭
 - 👨‍💻 All of my projects are available here & at https://www.kaggle.com/sofiaabielmi
 - 💬 Ask me about anything R, SQL, Excel & Power BI related topics.
 - 📫 How to reach me: sofiaelmi0@gmail.com
