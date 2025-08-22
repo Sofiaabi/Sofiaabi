@@ -7,7 +7,7 @@
 About me :
 
 - 👨‍💻 All of my projects are available here & at https://www.kaggle.com/sofiaabielmi
-- 💬 Ask me about anything R, Rshiny, SQL, Python, Excel & Power BI-related topics.
+- 💬 Ask me about anything R,Python,Rshiny,streamlit,SQL
 - 📫 How to reach me: sofiaabielmi@gmail.com
 - 😄 Pronouns: she/her
 
